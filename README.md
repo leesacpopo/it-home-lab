@@ -26,12 +26,15 @@ My virtual machines are configured using VMware Fusion on macOS. VM files are st
 - Tested VM dependency on external storage
 - Configured virtual hardware and installation media
 
-### Linux
-- Ubuntu virtual machine
-- Set up in progress
+### Ubuntu Linux
+- Ubuntu Linux virtual machine
+- VM stored on external SSD
+- Ubuntu desktop environment installed
+- Linux terminal configured and tested
+- SSH configured for remote access from the macOS Terminal
+- Practicing Linux/Unix and Bash commands
 
 ## What I'm Learning
-
 - Virtual machine configuration
 - Windows administration
 - Linux/Unix fundamentals
@@ -40,5 +43,4 @@ My virtual machines are configured using VMware Fusion on macOS. VM files are st
 - System troubleshooting
 
 ## Documentation
-
 Detailed setup notes and troubleshooting documentation will be added as the lab develops.
