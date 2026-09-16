@@ -19,3 +19,23 @@ The virtual machine was configured with a 128 GB virtual disk. This storage exis
 
 Verified the VM storage location by disconnecting the external SSD and attempting to launch the virtual machine. VMware Fusion could not locate the VM until the external SSD was reconnected.
 This confirmed that the Windows VM files were stored on the external SSD.
+
+The following screenshots verify the Windows 11 VM configuration and virtual storage.
+
+### Windows 11 VM
+
+Windows 11 Pro running successfully in VMware Fusion.
+
+![Windows 11 VM running in VMware Fusion](../screenshot/windows-11-vm.png)
+
+### System Information
+
+Windows system information used to verify the operating system and system configuration.
+
+![Windows 11 system information](../screenshot/windows-11-system-info.png)
+
+### Virtual Disk
+
+Windows reports a 128 GB virtual disk configured through VMware Fusion. The virtual disk exists as part of the VM files stored on the external SSD.
+
+![Windows 11 virtual disk](../screenshot/windows-11-virtual-disk.png)
