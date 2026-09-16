@@ -141,3 +141,9 @@ This closes the SSH session and returns the terminal to the local macOS shell.
 * How to establish an authenticated SSH session
 * How to distinguish between local and remote shell sessions
 * How macOS Terminal can be used to administer a Linux system
+
+### Verification
+
+The following screenshot shows a successful SSH connection from the macOS Terminal to the Ubuntu VM.
+
+![macOS Terminal connected to Ubuntu VM using SSH](../screenshot/mac-to-ubuntu-ssh.png)
